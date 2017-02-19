@@ -30,4 +30,4 @@ PROJECT OUTCOME
 1. run_analysis.R  contains the bulk of the code.
 
 
-Tidy dataset file DatasetHumanActivityRecognitionUsingSmartphones.txt
+2. Tidy dataset file DatasetHumanActivityRecognitionUsingSmartphones.txt
